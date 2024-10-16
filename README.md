@@ -9,6 +9,11 @@ A simple Discord bot that finds the most relevant music videos from YouTube base
 - discord.js for creating local instance of the bot
 - @distube/ytdl-core & @discordjs/voice for streming youtube audio
 
+#Screenshots
+![Screenshot 2024-10-17 014029](https://github.com/user-attachments/assets/6b5d415b-6c95-45a3-bd58-3aa799295ea0)
+![Screenshot 2024-10-17 005356](https://github.com/user-attachments/assets/5b9268ae-2f3a-4d11-86a0-990f44a0a7b4)
+
+
 
 ## Environment Variables
 
